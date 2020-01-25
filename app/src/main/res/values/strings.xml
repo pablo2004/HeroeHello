@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Marvel App Demo</string>
+
+    <string name="action_wait">Por favor espera...</string>
+    <string name="action_loading">Cargando</string>
+
+
+    <string name="msg_name">Nombre</string>
+
+</resources>

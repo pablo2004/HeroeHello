@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+
+    <dimen name="heroeImageWidth">60dp</dimen>
+    <dimen name="heroeImageHeight">100dp</dimen>
+
+    <dimen name="text20">20sp</dimen>
+    <dimen name="text12">12sp</dimen>
+
+</resources>
